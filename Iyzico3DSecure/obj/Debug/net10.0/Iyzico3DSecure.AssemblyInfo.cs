@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iyzico3DSecure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b44d79f528a09746fc99466964e55c61da44d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iyzico3DSecure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iyzico3DSecure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
