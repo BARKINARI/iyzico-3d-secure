@@ -118,5 +118,5 @@ src/.vs/config/applicationhost.config
 .idea/
 
 # Sensitive configuration files
-appsettings.json
-!appsettings.json.example
+**/appsettings.json
+!**/appsettings.json.example
