@@ -1,7 +1,7 @@
 {
   "IyzicoOptions": {
-    "ApiKey": "sandbox-VlCMrFn77CJpyqq5mDYgIBKd5qQMGDHK",
-    "SecretKey": "sandbox-dqnfiF7X4Tqy1HeLDOsITByReS7GlLEj",
+    "ApiKey": "sandbox-...",
+    "SecretKey": "sandbox-...",
     "BaseUrl": "https://sandbox-api.iyzipay.com"
   },
   "Logging": {
